@@ -1,0 +1,31 @@
+html, body {
+ margin-left: 10%;
+ margin-right: 10%;
+ padding: 0;
+ }
+.Photo{
+	float: right;
+	width :80px;
+	margin-right : 100px;
+	font-size : 30px;
+}
+
+body {
+ background-color: #CC9999; 
+ font-family: Verdana, sans-serif; 
+ font-size: 100%;
+ }
+
+h1 {
+text-align: center;
+}
+
+.description {
+text-align: center;
+}
+
+.row {
+  margin-right: 30px;
+  margin-left: 30px;
+}
+
